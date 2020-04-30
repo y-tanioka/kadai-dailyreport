@@ -20,6 +20,7 @@ body {
 h1 {
     font-size: 24px;
     display: inline;
+}
 
 
 h2 {
@@ -155,8 +156,8 @@ table#report_list .report_action {
     width: 13%;
 }
 
-pre {
-    font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
+h3 {
+    font-size: larger;
 }
 
 h3 {
